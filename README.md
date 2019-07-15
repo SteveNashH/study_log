@@ -77,6 +77,8 @@ https://github.com/gaoweibupt/offer/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9
 5.哈夫曼树简书
 6.并查集简书
 7.B树系列
+
+
 图论： 
 1.图的基础概念
 2.深度遍历与广度遍历
@@ -112,10 +114,6 @@ https://github.com/gaoweibupt/offer/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9
 24. Spooling。
 25. 外存分配的几种方式，及各种优劣。
 
-作者：非凡公社
-链接：https://www.zhihu.com/question/31032841/answer/668144642
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 计算机网络
 1. 电路交换与分组交换的区别？优劣对比。
@@ -153,11 +151,6 @@ https://github.com/gaoweibupt/offer/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9
 1. 各种常用模式的用途，使用方法(类图)。
 2. 单例模式的双重检查实现。
 3. MVC模式
-
-作者：非凡公社
-链接：https://www.zhihu.com/question/31032841/answer/668144642
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 数据库
 1.事务四大特性（ACID）原子性、一致性、隔离性、持久性？
